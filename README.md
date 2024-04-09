@@ -23,6 +23,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=albrud199&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albrud199&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albrud199&label=Profile%20views&color=0e75b6&style=flat" alt="albrud199" /> </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
@@ -33,7 +35,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=albrud199&icon=4&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
