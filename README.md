@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin Rudro</h1>
 <h3 align="center">A passionate programmer and WordPress website designer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albrud199&label=Profile%20views&color=0e75b6&style=flat" alt="albrud199" />  </p> 
 
 
 # 💫 About Me:
@@ -24,7 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=albrud199&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albrud199&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albrud199&label=Profile%20views&color=0e75b6&style=flat" alt="albrud199" />  </p> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
